@@ -30,4 +30,4 @@ post{
     emailext body: 'Summary', replyTo: 'shonitaric@gmail.com', subject: 'Jenkins Pipeline', to: 'shonitaric@gmail.com'
   }
 }
-}
+
