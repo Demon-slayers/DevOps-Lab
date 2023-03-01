@@ -4,4 +4,4 @@ This is Shonit.
 I'm currently doing my MCA at RIT,Bengaluru.
 =======
 I'm currently doing my MCA at RIT,Mysore.
->>>>>>> a5dba0ff9910028ff8d8dc093972d4e39fc97732
+>>>>>>> a5dba0ff9910028ff8d8dc093972d4e39fc97731
