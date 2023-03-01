@@ -1,7 +1,8 @@
 Hi
 This is Shonit.
-<<<<<<< HEAD
+
 I'm currently doing my MCA at RIT,Bengaluruuuuuuu.
-=======
-I'm currently doing my MCA at RIT,Mysoreeeee.
->>>>>>> a5dba0ff9910028ff8d8dc093972d4e39fc97732
+
+I'm currently doing my MCA at RIT,Mysoreeeee.2
+
+I'm currently doing my MCA at RIT,Mysore.
